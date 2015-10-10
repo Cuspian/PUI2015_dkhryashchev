@@ -3,6 +3,8 @@
 # the citibike september 2015 file can be obtained here
 # https://drive.google.com/file/d/0Bx8AmvwAoY0jUzV1dXltOXZHWTQ/view?usp=sharing
 
+# the StationsBorough.csv file is uploaded to the repository.
+
 Dataset: open data for citibike ridership for September 2015
 
 Idea: We want to know if the ridership from Brooklyn to Manhattan during Weekdays is Greater than that from Manhattan to Brooklyn during Weekdays.
