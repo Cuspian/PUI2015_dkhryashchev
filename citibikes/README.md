@@ -1,9 +1,27 @@
-# Testing whether more people ride citibike from Manhattan to Brooklyn, or from Brooklyn to Manhattan
+# Lab 4
+## All the citibike used in the Lab data can be accessed here http://www.citibikenyc.com/system-data
+## Assignment #1 for the Lab #4
 
-# the citibike september 2015 file can be obtained here
-# https://drive.google.com/file/d/0Bx8AmvwAoY0jUzV1dXltOXZHWTQ/view?usp=sharing
+Participants: Denis Khryashchev (dk2926)
 
-# the StationsBorough.csv file is uploaded to the repository.
+Citibike distribution comparison
+Notebook: citibikes_compare_distributions_dk2926.ipynb
+Data: 201509-citibike-tripdata.csv
+
+## Assignment 3 for Lab #4
+CitiBike distribution fit test
+Notebook: citibikes_goodness_of_fit_dk2926.ipynb
+Data: 201409-citibike-tripdata.csv, 201410-citibike-tripdata.csv, 201411-citibike-tripdata.csv,
+      201412-citibike-tripdata.csv, 201501-citibike-tripdata.csv, 201502-citibike-tripdata.csv,
+      201503-citibike-tripdata.csv, 201504-citibike-tripdata.csv, 201505-citibike-tripdata.csv,
+      201506-citibike-tripdata.csv, 201507-citibike-tripdata.csv, 201508-citibike-tripdata.csv,
+
+# Lab 3
+# Assignment #3 for the Lab #3
+## Testing whether more people ride citibike from Manhattan to Brooklyn, or from Brooklyn to Manhattan
+
+## the citibike september 2015 file can be obtained here
+## https://drive.google.com/file/d/0Bx8AmvwAoY0jUzV1dXltOXZHWTQ/view?usp=sharing
 
 Dataset: open data for citibike ridership for September 2015
 
